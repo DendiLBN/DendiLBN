@@ -16,7 +16,7 @@
 <p align="left">
 </p>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,sass,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,mongodb,nextjs,mysql" /><br>
