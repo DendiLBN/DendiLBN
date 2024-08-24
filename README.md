@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=15&center=true&vCenter=true&width=500&height=14&duration=4000&lines=Hello+World!+👋;+I'm+Damian+;++A+passionate+frontend+developer+from+Poland!;&color=17c654" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=15&center=true&vCenter=true&width=500&height=18&duration=4000&lines=Hello+World!+👋;+I'm+Damian+;++A+passionate+frontend+developer+from+Poland!;&color=17c654" />
 </h1>
 
 
