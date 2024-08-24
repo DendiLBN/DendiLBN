@@ -5,8 +5,6 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DendiLBN.DendiLBN" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dendilbn&label=DendiLBN&color=0e75b6&style=flat" alt="Visitors:" /> </p>
-
 - 🔭 I’m currently working on [book-store](https://github.com/DendiLBN/bookStore)
 
 - 🌱 I’m currently learning **React NestJS MongoDB MySQL**
