@@ -1,8 +1,7 @@
-<h3 align="center">A passionate software developer from Poland</h3>
 
-<h4 align="center" style="font-size: 24;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Damian+!;&color=17c654" />
-</h4>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=500&height=20&duration=4000&lines=Hello+World!+👋;+I'm+Damian+;+A+passionate+frontend+developer+from+Poland!;&color=17c654" />
+</h1>
 
 
 - 🔭 I’m currently working on [book-store](https://github.com/DendiLBN/bookStore)
