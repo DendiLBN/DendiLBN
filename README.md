@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [book-store](https://github.com/DendiLBN/bookStore)
 
-- 🌱 I’m currently learning **React NestJS MongoDB MySQL**
+- 🌱 I’m currently learning **NestJS MongoDB MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DendiLBN](https://github.com/DendiLBN)
 
