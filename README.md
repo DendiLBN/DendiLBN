@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Damian+!;" />
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dendilbn&label=DendiLBN&color=0e75b6&style=flat" alt="dendilbn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dendilbn&label=DendiLBN&color=0e75b6&style=flat" alt="Visitors:" /> </p>
 
 - 🔭 I’m currently working on [book-store](https://github.com/DendiLBN/bookStore)
 
