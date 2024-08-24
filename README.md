@@ -18,6 +18,6 @@
 
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,sass,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,mongodb,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,github,sass,tailwind,git,typescript,javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,nextjs,mysql" /><br>
 </div>
