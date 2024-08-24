@@ -16,11 +16,66 @@
 <p align="left">
 </p>
 
-<h2 align="center">Languages-Frameworks-Tools</h2>
+<h2 align="center">Languages - Frameworks - Tools</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,github,sass,tailwind,git,typescript,javascript,typescript" />
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,nextjs,mysql" /><br>
+    <!-- React -->
+    <a href="https://reactjs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" />
+    </a>
+    <!-- Bootstrap -->
+    <a href="https://getbootstrap.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" />
+    </a>
+    <!-- HTML -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
+    </a>
+    <!-- CSS -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />
+    </a>
+    <!-- GitHub -->
+    <a href="https://github.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" />
+    </a>
+    <!-- Sass -->
+    <a href="https://sass-lang.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="50" />
+    </a>
+    <!-- Tailwind -->
+    <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" />
+    </a>
+    <!-- Git -->
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" />
+    </a>
+    <!-- TypeScript -->
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" />
+    </a>
+    <!-- JavaScript -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" />
+    </a>
+    <!-- Firebase -->
+    <a href="https://firebase.google.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" />
+    </a>
+    <!-- MongoDB -->
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" />
+    </a>
+    <!-- Next.js -->
+    <a href="https://nextjs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" />
+    </a>
+    <!-- MySQL -->
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" />
+    </a>
 </div>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
