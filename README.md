@@ -69,9 +69,9 @@
     <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" />
     </a>
-    <!-- Next.js -->
-    <a href="https://nextjs.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" />
+    <!-- Nestjs -->
+    <a href="https://nestjs.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" width="50" />
     </a>
     <!-- MySQL -->
     <a href="https://www.mysql.com/" target="_blank">
