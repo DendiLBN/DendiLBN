@@ -18,13 +18,9 @@
 
 <h2 align="center">Languages - Frameworks - Tools</h2>
 <div align="center">
-    <!-- React -->
-    <a href="https://reactjs.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" />
-    </a>
-    <!-- Bootstrap -->
-    <a href="https://getbootstrap.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" />
+ <!-- JavaScript -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" />
     </a>
     <!-- HTML -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -34,9 +30,19 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />
     </a>
+    <!-- React -->
+    <a href="https://reactjs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" />
+    </a>
+ <!-- Empty space -->
+    <div style="display:inline-block; width:30;"></div>
     <!-- GitHub -->
     <a href="https://github.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" />
+    </a>
+    <!-- Bootstrap -->
+    <a href="https://getbootstrap.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" />
     </a>
     <!-- Sass -->
     <a href="https://sass-lang.com/" target="_blank">
@@ -46,18 +52,12 @@
     <a href="https://tailwindcss.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" />
     </a>
-    <!-- Git -->
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" />
-    </a>
     <!-- TypeScript -->
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" />
     </a>
-    <!-- JavaScript -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" />
-    </a>
+ <!-- Empty space -->
+    <div style="display:inline-block; width:30;"></div>
     <!-- Firebase -->
     <a href="https://firebase.google.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" />
