@@ -24,7 +24,7 @@
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
     </a>
     <!-- CSS -->
-    <a href="(https://www.w3schools.com/css/default.asp" target="_blank">
+    <a href="https://www.w3schools.com/css/default.asp" target="_blank">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />
     </a>
     <!-- React -->
