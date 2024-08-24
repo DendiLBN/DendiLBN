@@ -3,8 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Damian+!;&color=900C3F" />
 </h4>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DendiLBN.DendiLBN" />
-
 - 🔭 I’m currently working on [book-store](https://github.com/DendiLBN/bookStore)
 
 - 🌱 I’m currently learning **NestJS MongoDB MySQL**
