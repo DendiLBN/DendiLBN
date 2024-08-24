@@ -16,15 +16,15 @@
 <h2 align="center">Languages - Frameworks - Tools</h2>
 <div align="center">
  <!-- JavaScript -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <a href="https://www.w3schools.com/js/" target="_blank">
         <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" />
     </a>
     <!-- HTML -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <a href="https://www.w3schools.com/html/default.asp" target="_blank">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
     </a>
     <!-- CSS -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <a href="(https://www.w3schools.com/css/default.asp)" target="_blank">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />
     </a>
     <!-- React -->
