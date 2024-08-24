@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **NestJS MongoDB MySQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DendiLBN](https://github.com/DendiLBN)
-
 - 📫 How to reach me **damiansky1337@gmail.com**
 
 <p align="left">
