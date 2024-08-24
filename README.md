@@ -56,9 +56,9 @@
         <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" />
     </a>
   <!-- Ant Design -->
-    <a href="https://ant.design/" target="_blank";">
-        <img src="https://skillicons.dev/icons?i=antd" alt="Ant Design" width="50" />
-    </a>
+<!--   <a href="https://ant.design/" target="_blank" style="margin-right: 15px;">
+        <img src="" alt="Ant Design" width="50" />
+    </a> -->
  <!-- Empty space -->
     <div style="display:inline-block; width:30;"></div>
     <!-- Firebase -->
