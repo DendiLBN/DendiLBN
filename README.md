@@ -1,7 +1,7 @@
 
-<h1 align="center">
+<!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=300&height=28&duration=4000&lines=Hello+World!+👋;+I'm+Damian+;++A+passionate+frontend+developer+from+Poland!;&color=17c654" />
-</h1>
+</h1> -->
 
 
 - 🔭 I’m currently working on [book-store](https://github.com/DendiLBN/bookStore)
