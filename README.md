@@ -46,9 +46,9 @@
         <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="50" />
     </a>
     <!-- Tailwind -->
-    <a href="https://tailwindcss.com/" target="_blank">
+<!--     <a href="https://tailwindcss.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" />
-    </a>
+    </a> -->
     <!-- TypeScript -->
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" />
