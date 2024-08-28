@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NestJS MongoDB MySQL JEST**
 
-- 📫 How to reach me **damiansky1337@gmail.com**
+<!-- 📫 How to reach me **damiansky1337@gmail.com** -->
 
 <p align="left">
 </p>
