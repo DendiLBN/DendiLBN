@@ -68,9 +68,9 @@
         <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" width="50" />
     </a>
     <!-- MySQL -->
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" />
-    </a>
+    <!--<a href="https://www.mysql.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" /> 
+    </a> 
 <!-- Jest -->
     <a href="https://jestjs.io/" target="_blank">
         <img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="50" />
