@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [book-store](https://github.com/DendiLBN/bookStore)
 
-- 🌱 I’m currently learning **NestJS MongoDB MySQL JEST**
+- 🌱 I’m currently learning **NestJS MongoDB JEST**
 
 <!-- 📫 How to reach me **damiansky1337@gmail.com** -->
 
