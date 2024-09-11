@@ -87,7 +87,7 @@
   
 
   <!-- GitHub Stats -->
-  <img width=375 src="https://github-readme-stats-salesp07.vercel.app/api?username=DendiLBN&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=370 src="https://github-readme-stats-salesp07.vercel.app/api?username=DendiLBN&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   
 
   <br/>
