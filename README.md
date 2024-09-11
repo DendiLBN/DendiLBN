@@ -83,7 +83,7 @@
 
 <div align="center">
   <!-- Streak Stats -->
-  <img width=390 height=120 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DendiLBN&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=370 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DendiLBN&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   
 
   <!-- GitHub Stats -->
