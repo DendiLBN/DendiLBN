@@ -80,6 +80,7 @@
 
 <h2 align="center"> Stats </h2>
 <br>
+
 <div align="center">
   <!-- Streak Stats -->
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DendiLBN&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -87,7 +88,7 @@
 <br>
 
   <!-- GitHub Stats -->
-  <img width=390 height=150 src="https://github-readme-stats-salesp07.vercel.app/api?username=DendiLBN&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=DendiLBN&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   
 <br/>
 
