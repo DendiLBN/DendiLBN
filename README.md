@@ -94,3 +94,13 @@
   <!-- Top Languages -->
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DendiLBN&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+<br>
+
+
+
+
+<br/>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=DendiLBN&label=Profile%20Views&icon=2&pretty=false" />
+</a>
