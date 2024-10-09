@@ -2,19 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=17&center=true&vCenter=true&width=230&height=28&duration=4000&lines=Hello+World!+👋!;&color=17c654" />
 </h1> 
 
-
 - 🔭 I’m currently working on [book-store](https://github.com/DendiLBN/bookStore)
 
 - 🌱 I’m currently learning **NestJS MongoDB JEST**
 
-<!-- 📫 How to reach me **damiansky1337@gmail.com** -->
-
-<p align="left">
-</p>
+<p align="left"></p>
 
 <h2 align="center">Languages - Frameworks - Tools</h2>
 <div align="center">
- <!-- JavaScript -->
+    <!-- JavaScript -->
     <a href="https://www.w3schools.com/js/" target="_blank">
         <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" />
     </a>
@@ -30,30 +26,30 @@
     <a href="https://reactjs.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" />
     </a>
- <!-- Empty space -->
-    <div style="display:inline-block; width:30;"></div>
+    <!-- Git -->
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" />
+    </a>
     <!-- GitHub -->
     <a href="https://github.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" />
     </a>
-    <!-- Bootstrap -->
-    <a href="https://getbootstrap.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" />
+    <!-- Redux -->
+    <a href="https://redux.js.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" />
     </a>
-    <!-- Sass -->
-    <a href="https://sass-lang.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="50" />
+    <!-- Redux Toolkit -->
+    <a href="https://redux-toolkit.js.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=redux" alt="Redux Toolkit" width="50" />
     </a>
-    <!-- Tailwind -->
-<!--     <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" />
-    </a> -->
-    <!-- TypeScript -->
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" />
+    <!-- React Query -->
+    <a href="https://tanstack.com/query/latest" target="_blank">
+        <img src="https://skillicons.dev/icons?i=reactquery" alt="React Query" width="50" />
     </a>
- <!-- Empty space -->
-    <div style="display:inline-block; width:30;"></div>
+    <!-- React Router -->
+    <a href="https://reactrouter.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=reactrouter" alt="React Router" width="50" />
+    </a>
     <!-- Firebase -->
     <a href="https://firebase.google.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" />
@@ -62,20 +58,15 @@
     <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" />
     </a>
-    <!-- Nestjs -->
+    <!-- NestJS -->
     <a href="https://nestjs.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" width="50" />
     </a>
-    <!-- MySQL -->
-    <!--<a href="https://www.mysql.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" /> 
-    </a> 
-<!-- Jest -->
+    <!-- Jest -->
     <a href="https://jestjs.io/" target="_blank">
         <img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="50" />
     </a>
 </div>
-
 
 <h2 align="center"> Stats </h2>
 <br>
@@ -84,11 +75,9 @@
   <!-- Streak Stats -->
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DendiLBN&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   
-
   <!-- GitHub Stats -->
   <img width=370 src="https://github-readme-stats-salesp07.vercel.app/api?username=DendiLBN&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   
-
   <br/>
   
   <!-- Top Languages -->
@@ -97,6 +86,10 @@
 
 <br>
 
+<br/>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=DendiLBN&label=Profile%20Views&icon=2&pretty=false" />
+</a>
 
 
 
