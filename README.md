@@ -52,6 +52,10 @@
     <a href="https://nestjs.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" width="50" />
     </a>
+    <!-- Typescript -->
+    <a href="https://nestjs.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" />
+    </a>
     <!-- Jest -->
     <a href="https://jestjs.io/" target="_blank">
         <img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="50" />
