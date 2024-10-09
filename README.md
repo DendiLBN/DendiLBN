@@ -3,8 +3,7 @@
 </h1> 
 
 
-- 👨🏻‍💻 Passionate self-taught Software Engineer, driven by curiosity and a love for coding. I'm learning, solving complex problems, and building efficient solutions. I approach each project as an opportunity to grow and refine my skills, with a deep belief in coding.
-
+- 👨🏻‍💻 As a passionate frontend developer, I embrace the challenge of learning something new every day. My journey involves solving complex problems and crafting efficient solutions that enhance user experiences. I view each project as a unique opportunity for growth, allowing me to refine my skills and explore innovative technologies. 
 
 - 🔭 I’m currently working on [book-store](https://github.com/DendiLBN/bookStore)
 
