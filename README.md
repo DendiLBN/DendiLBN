@@ -58,7 +58,7 @@
     </a>
     <!-- Nodejs -->
     <a href="https://nestjs.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=Nodejs" alt="Nodejs" width="50" />
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" />
     </a>
     <!-- Jest -->
     <a href="https://jestjs.io/" target="_blank">
