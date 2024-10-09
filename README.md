@@ -38,10 +38,6 @@
     <a href="https://redux.js.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" />
     </a>
-    <!-- Redux Toolkit -->
-    <a href="https://redux-toolkit.js.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=redux" alt="Redux Toolkit" width="50" />
-    </a>
     <!-- React Query -->
     <a href="https://tanstack.com/query/latest" target="_blank">
         <img src="https://skillicons.dev/icons?i=reactquery" alt="React Query" width="50" />
