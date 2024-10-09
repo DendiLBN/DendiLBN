@@ -2,10 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=17&center=true&vCenter=true&width=230&height=28&duration=4000&lines=Hello+World!+👋!;&color=17c654" />
 </h1> 
 
-- 🔭 I’m currently working on [book-store](https://github.com/DendiLBN/bookStore)
-
 
 - 👨🏻‍💻 Passionate self-taught Software Engineer, driven by curiosity and a love for coding. I'm learning, solving complex problems, and building efficient solutions. I approach each project as an opportunity to grow and refine my skills, with a deep belief in coding.
+
+
+- 🔭 I’m currently working on [book-store](https://github.com/DendiLBN/bookStore)
 
 
 <p align="left"></p>
