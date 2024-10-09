@@ -38,10 +38,6 @@
     <a href="https://redux.js.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" />
     </a>
-    <!-- React Router -->
-    <a href="https://reactrouter.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=reactrouter" alt="React Router" width="50" />
-    </a>
     <!-- Firebase -->
     <a href="https://firebase.google.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" />
