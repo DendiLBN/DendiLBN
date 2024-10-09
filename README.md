@@ -3,7 +3,7 @@
 </h1> 
 
 - 🔭 I’m currently working on [book-store](https://github.com/DendiLBN/bookStore)
-
+- 👨🏻‍💻 Passionate self-taught Software Engineer, driven by curiosity and a love for coding. I'm learning, solving complex problems, and building efficient solutions. I approach each project as an opportunity to grow and refine my skills, with a deep belief in coding.
 - 🌱 I’m currently learning **NestJS MongoDB JEST**
 
 <p align="left"></p>
