@@ -11,6 +11,7 @@
 <p align="left"></p>
 
 <h2 align="center">Languages - Frameworks - Tools</h2>
+<h2 align="center">Frontend</h2>
 <div align="center">
     <!-- JavaScript -->
     <a href="https://www.w3schools.com/js/" target="_blank">
@@ -28,6 +29,36 @@
     <a href="https://reactjs.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" />
     </a>
+    <!-- Redux -->
+    <a href="https://redux.js.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" />
+    </a>
+    <!-- TypeScript -->
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" />
+    </a>
+</div>
+<h2 align="center">Backend</h2>
+<div align="center">
+    <!-- Node.js -->
+    <a href="https://nodejs.org/en/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" />
+    </a>
+    <!-- NestJS -->
+    <a href="https://nestjs.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" width="50" />
+    </a>
+    <!-- MongoDB -->
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" />
+    </a>
+    <!-- Firebase -->
+    <a href="https://firebase.google.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" />
+    </a>
+</div>
+<h2 align="center">Tools</h2>
+<div align="center">
     <!-- Git -->
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" />
@@ -36,34 +67,11 @@
     <a href="https://github.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" />
     </a>
-    <!-- Redux -->
-    <a href="https://redux.js.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" />
-    </a>
-    <!-- Firebase -->
-    <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" />
-    </a>
-    <!-- MongoDB -->
-    <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" />
-    </a>
-    <!-- NestJS -->
-    <a href="https://nestjs.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" width="50" />
-    </a>
-    <!-- Typescript -->
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" />
-    </a>
-    <!-- Nodejs -->
-    <a href="https://nodejs.org/en/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" />
-    </a>
     <!-- Jest -->
     <a href="https://jestjs.io/" target="_blank">
         <img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="50" />
     </a>
+</div>
 </div>
 
 <h2 align="center"> Stats </h2>
