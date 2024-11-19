@@ -38,7 +38,7 @@
         <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" width="50" />
     </a>
     <!-- Tailwind -->
-    <a href="https://nextjs.org/](https://tailwindcss.com/" target="_blank">
+    <a href="https://tailwindcss.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" />
     </a>
     <!-- Redux -->
