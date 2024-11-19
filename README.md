@@ -37,6 +37,11 @@
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" />
     </a>
+    <!-- NextJs -->
+    <a href="https://nextjs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" width="50" />
+    </a>
+
 </div>
 <h2 align="center">Backend</h2>
 <div align="center">
