@@ -13,10 +13,6 @@
 <h2 align="center">Languages - Frameworks - Tools</h2>
 <h2 align="center">Frontend</h2>
 <div align="center">
-    <!-- JavaScript -->
-    <a href="https://www.w3schools.com/js/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" />
-    </a>
     <!-- HTML -->
     <a href="https://www.w3schools.com/html/default.asp" target="_blank">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
@@ -25,13 +21,13 @@
     <a href="https://www.w3schools.com/css/default.asp" target="_blank">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />
     </a>
+    <!-- JavaScript -->
+    <a href="https://www.w3schools.com/js/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" />
+    </a>
     <!-- React -->
     <a href="https://reactjs.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" />
-    </a>
-    <!-- Redux -->
-    <a href="https://redux.js.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" />
     </a>
     <!-- TypeScript -->
     <a href="https://www.typescriptlang.org/" target="_blank">
@@ -40,6 +36,14 @@
     <!-- NextJs -->
     <a href="https://nextjs.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" width="50" />
+    </a>
+    <!-- Tailwind -->
+    <a href="https://nextjs.org/](https://tailwindcss.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" />
+    </a>
+    <!-- Redux -->
+    <a href="https://redux.js.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" />
     </a>
 
 </div>
