@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [book store](https://github.com/DendiLBN/bookStore)
 
+- 🌱 I’m currently learning Next.js, Tailwind CSS
+
 
 <p align="left"></p>
 
