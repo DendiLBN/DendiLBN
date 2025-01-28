@@ -3,8 +3,6 @@
 </h1> 
 
 
-- 👨🏻‍💻 As a passionate frontend developer, I embrace solving complex problems and specialize in analyzing and debugging with precision. My journey is focused on crafting efficient solutions that enhance user experiences. I view each project as a unique opportunity for growth, allowing me to continually refine my skills. 
-
 - 🔭 I’m currently working on [bookApp](https://github.com/DendiLBN/bookStore)
 
 
