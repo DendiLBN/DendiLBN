@@ -2,6 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=17&center=true&vCenter=true&width=430&height=35&duration=4000&lines=Hello+World!+👋!;&color=17c654" />
 </h1> 
 
+- 👨🏻‍💻 I focus on writing high-quality and clean code – it's my top priority. Simplicity, efficiency, and continuous improvement are what drive me. 🚀
 
 - 🔭 I’m currently working on [bookApp](https://github.com/DendiLBN/bookStore)
 
