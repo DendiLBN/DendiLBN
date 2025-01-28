@@ -38,10 +38,6 @@
     <a href="https://nextjs.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" width="50" />
     </a>
-    <!-- Docker -->
-    <a href="https://www.docker.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" />
-    </a>
     <!-- Tailwind -->
     <a href="https://tailwindcss.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" />
@@ -77,6 +73,10 @@
 </div>
 <h2 align="center">Tools</h2>
 <div align="center">
+  <!-- Docker -->
+    <a href="https://www.docker.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" />
+    </a>
     <!-- Git -->
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" />
