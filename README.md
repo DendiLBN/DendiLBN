@@ -38,9 +38,17 @@
     <a href="https://nextjs.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" width="50" />
     </a>
+    <!-- Docker -->
+    <a href="https://www.docker.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" />
+    </a>
     <!-- Tailwind -->
     <a href="https://tailwindcss.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" />
+    </a>
+    <!-- BootStrap -->
+    <a href="https://getbootstrap.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" />
     </a>
     <!-- Redux -->
     <a href="https://redux.js.org/" target="_blank">
