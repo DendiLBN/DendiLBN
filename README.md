@@ -4,9 +4,9 @@
 </h1> 
 
 - 👨🏻‍💻 I focus on writing high-quality and clean code – it's my top priority. Simplicity, efficiency, and continuous improvement are what drive me. 🚀
-
-- 🔭 I’m currently working on [bookApp](https://github.com/DendiLBN/bookStore)
-
+<!-- 
+- 🔭 I’m currently working on [bookApp](https://github.com/DendiLBN/bookStore
+-->
 
 
 <p align="left"></p>
