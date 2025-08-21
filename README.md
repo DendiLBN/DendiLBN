@@ -12,9 +12,9 @@
 <br>
 🎯 Passionate about clean code, good architecture, and continuous learning.
 </br>
-<br>
+<!-- <br>
 🌍 Open to collaboration on exciting projects and always looking to improve my skills.
-</br>
+</br> -->
 
 
 <p align="left"></p>
