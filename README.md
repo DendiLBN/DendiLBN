@@ -4,7 +4,7 @@
 </h1> 
 
 <br>
-💻 Full Stack Developer focusing mainly on frontend development with React and Next.js.
+💻 Full Stack Developer 
 </br>
 <br>
 ⚡ Experienced in building modern, scalable web applications with Node.js, Express, and NestJS on the backend.
