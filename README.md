@@ -3,13 +3,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=17&center=true&vCenter=true&width=430&height=35&duration=4000&lines=Hello+World!+👋!;&color=17c654" />
 </h1> 
 
+<br>
 💻 Full Stack Developer focusing mainly on frontend development with React and Next.js.
+</br>
+<br>
 ⚡ Experienced in building modern, scalable web applications with Node.js, Express, and NestJS on the backend.
+</br>
+<br>
 🎯 Passionate about clean code, good architecture, and continuous learning.
+</br>
+<br>
 🌍 Open to collaboration on exciting projects and always looking to improve my skills.
-<!-- 
-- 🔭 I’m currently working on [bookApp](https://github.com/DendiLBN/bookStore
--->
+</br>
 
 
 <p align="left"></p>
