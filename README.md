@@ -7,7 +7,7 @@
 💻 Full Stack Developer 
 </br>
 <br>
-⚡ Experienced in building modern, scalable web applications with Node.js, Express, and NestJS on the backend.
+⚡ Experienced in building modern, scalable web applications.
 </br>
 <br>
 🎯 Passionate about clean code, good architecture, and continuous learning.
